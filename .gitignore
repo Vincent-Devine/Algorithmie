@@ -1,0 +1,6 @@
+.vscode
+main
+a.out
+*.o
+*.d
+demo
